@@ -6,9 +6,9 @@
 
 ## 💫 About Me
 
-I'm a **BCA student at SRMIST** and a passionate **AI + App & Web Developer**.  
+I'm a **student at SRMIST** and a passionate **AI + App & Web Developer**.  
 I love building products that combine **clean UI, smart backend systems, and data-driven intelligence**.  
-Recently, I’ve been working on projects around **AI-powered automation, finance apps, and analytics dashboards**.
+Recently, I’ve been working on projects around **AI-powered Lost & Found Animals App**.
 
 I enjoy solving real-world problems using **full-stack development, data analytics, and computer vision**.
 
