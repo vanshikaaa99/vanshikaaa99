@@ -1,52 +1,16 @@
-# 👋 Hi there, I'm Vanshika!
+# 👋 Hi there, I'm Vanshika Singh!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03E3FF&center=true&vCenter=true&width=500&lines=AI+%2B+App+Developer;UAV+%7C+VTOL+Innovation;Building+Real-World+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03E3FF&center=true&vCenter=true&width=600&lines=AI+%2B+App+Developer;Full-Stack+Web+Developer;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-I am a passionate **AI + App Developer** exploring the intersection of engineering, software, and UAV systems.  
-Currently working on **VTOL Drone technology**, blending aerodynamics, autonomy, smart sensing, and cloud-connected analytics.  
-Driven by innovation and solving real-world problems through scalable products.
+I'm a **BCA student at SRMIST** and a passionate **AI + App & Web Developer**.  
+I love building products that combine **clean UI, smart backend systems, and data-driven intelligence**.  
+Recently, I’ve been working on projects around **AI-powered automation, finance apps, and analytics dashboards**.
 
----
-
-### 🔨 Currently Working On
-**VTOL Drone – Autonomous Vertical-Takeoff UAV**
-- 🚁 Hybrid vertical takeoff + horizontal flight design  
-- 🎯 Applications in surveillance & terrain mapping  
-- 📡 Telemetry monitoring & onboard intelligence  
-- 🧠 AI-driven stability and path optimization  
-- ⚙️ Hardware simulation + embedded control work
-
----
-
-### 🤝 Looking to Collaborate On
-- UAV engineering + autonomy  
-- AI-powered embedded systems  
-- Scalable cross-platform mobile apps  
-- Industrial & defense-tech innovation  
-
----
-
-### 🌱 Currently Learning
-- Computer vision for aerial navigation  
-- Cloud-based telemetry processing  
-- Embedded control systems & flight dynamics  
-
----
-
-### 💬 Ask Me About
-- Cross-platform app development (Flutter + Web)  
-- UAV systems and automation  
-- System design with Node.js & PostgreSQL  
-- Clean UI, product thinking & rapid prototyping  
-
----
-
-### ⚡ Fun Fact
-Drones don’t fly… they **challenge gravity with attitude 😎🚀**
+I enjoy solving real-world problems using **full-stack development, data analytics, and computer vision**.
 
 ---
 
@@ -55,6 +19,7 @@ Drones don’t fly… they **challenge gravity with attitude 😎🚀**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshikasingh4)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikaasingh99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshikaaa99)
 
 </div>
@@ -63,14 +28,72 @@ Drones don’t fly… they **challenge gravity with attitude 😎🚀**
 
 ## 🛠️ Tech Stack
 
+### 🧾 Programming Languages
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
+
+### ⚙️ Backend Development
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### 📊 Data & Analytics
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+### 🤖 Machine Learning & Computer Vision
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+### 🧰 Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -108,7 +131,7 @@ Drones don’t fly… they **challenge gravity with attitude 😎🚀**
 
 ---
 
-## 💡 Random Developer Quote
+## 💡 Random Dev Quote
 
 <div align="center">
 
@@ -118,10 +141,39 @@ Drones don’t fly… they **challenge gravity with attitude 😎🚀**
 
 ---
 
+## 📂 Projects
+
+### 🔹 Drone-Surveillance
+**VTOL-drone control & AI vision (Python + OpenCV)**  
+- Built an AI-powered drone surveillance solution for disaster/conflict zones.  
+- Uses computer vision to detect people/objects and support faster response.
+
+[🔗 View Repository](https://github.com/vanshikaaa99/Drone-Surveillance) <!-- update link if repo name is different -->
+
+---
+
+### 🔹 Expense-Tracker
+**Mobile / Web app to track & analyze expenses**  
+- Tracks income & categorized expenses with clean UI.  
+- Can include smart budgeting and data visualization for better financial habits.
+
+[🔗 View Repository](https://github.com/vanshikaaa99/Expense-Tracker) <!-- update link if repo name is different -->
+
+---
+
+### 🔹 Pizza-Sales-Analytics
+**SQL & data-analytics for pizza shop sales**  
+- Analyzed 50K+ records to find top-selling pizzas & peak hours.  
+- Used advanced SQL queries and Excel/visuals for insights.
+
+[🔗 View Repository](https://github.com/vanshikaaa99/Pizza-Sales-Analytics) <!-- update link if repo name is different -->
+
+---
+
 <div align="center">
 
-### 🌟 Thanks for visiting my profile! 🚀  
-Let’s build the future — one innovation at a time.
+### 🌟 Thanks for visiting my profile! 🌟  
+If you’re into **AI, web apps, data or analytics**, let’s connect and build something cool 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanshikaaa99&style=for-the-badge&color=blueviolet)
 
